@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'D:\\CAPGEMINI\\1_Automation Training\\Module_4\\UFT\\3_Parameterization_usingDataDriver\\Res1',namePairs:[]}]};
